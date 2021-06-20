@@ -2,4 +2,4 @@
 
 It is simple Python GUI built with Tkinter and MongoDB backend.
 
-![HomePage][]
+![HomePage][https://github.com/Dipali742/Student-Management-System/blob/main/Screenshots/HomePage.png]
