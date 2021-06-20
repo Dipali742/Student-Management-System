@@ -7,12 +7,20 @@ It is simple Python GUI built with Tkinter and MongoDB backend.
 - MongoDB 4.4
 
 # Usage
+- Clone the repository
 ```
-git clone https://github.com/Dipali742/Student-Management-System.git
-
-pip install -r ./requirements.txt
-
-python App.py
+$ git clone https://github.com/Dipali742/Student-Management-System.git
 ```
+- Install the dependencies
+```
+$ pip install -r ./requirements.txt
+```
+- Go to the directory and run the code.
+```
+$ python App.py
+```
+
+
+
 
 
