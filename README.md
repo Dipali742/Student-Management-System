@@ -15,7 +15,7 @@ $ git clone https://github.com/Dipali742/Student-Management-System.git
 ```
 $ pip install -r ./requirements.txt
 ```
- Start the MongoDB server and run the code :
+ Start MongoDB server and run the code :
 ```
 $ mongod
 $ python App.py
