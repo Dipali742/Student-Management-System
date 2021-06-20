@@ -23,7 +23,7 @@ except :
 
 root=Tk()
 root.geometry('400x350')
-root.title("STUDENT Management System")
+root.title("Student Management System")
 
 def add_STUDENTS(root,db): 
     def add_query():
