@@ -20,7 +20,10 @@ $ pip install -r ./requirements.txt
 $ python App.py
 ```
 # Demo 
-
+![HomePage](https://github.com/Dipali742/Student-Management-System/blob/main/Screenshots/HomePage.png)
+![AddStudents](https://github.com/Dipali742/Student-Management-System/blob/main/Screenshots/AddStudent2.png)
+![DeleteStudent](https://github.com/Dipali742/Student-Management-System/blob/main/Screenshots/HomePage.png)
+![Display](https://github.com/Dipali742/Student-Management-System/blob/main/Screenshots/DisplayStudents.png)
 
 
 
