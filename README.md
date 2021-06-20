@@ -1,6 +1,6 @@
 # Student Management System
 
-It is simple Python GUI built with Tkinter and MongoDB backend.
+It is a simple Python GUI built with Tkinter and MongoDB backend.
 
 ## Prerequisites
 - Python 2.7
